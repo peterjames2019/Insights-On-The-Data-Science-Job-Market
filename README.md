@@ -315,3 +315,10 @@ To maximize your market value:
 
 ## **Conclusion:**
 Successfully demonstrated the ability to function as a **Data-Driven Strategist** by using technical SQL workflows to extract, clean, and analyze complex data into actionable executive insights.
+
+## 📬 Contact & Portfolio
+If you have any questions about this project or would like to discuss potential collaborations, feel free to reach out!
+* **Portfolio** [https://peterjames2019.github.io/]
+
+* **LinkedIn:** [linkedin.com/in/Favour Peter](https://www.linkedin.com/in/favour-peter-43b330263/) 💼
+* **Email:** [clipking19official@gmail.com](clipking19official@gmail.com) 📧
